@@ -1,0 +1,17 @@
+{
+  "name": "com.yune.save",
+  "version": "1.0.0",
+  "displayName": "SaveSystem",
+  "description": "This is an save system",
+  "unity": "2018.1",
+  "unityRelease": "0f2",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "Teru",
+    "email": "kattunforever49@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
